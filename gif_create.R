@@ -660,24 +660,3 @@ for(i in 1:nrow(presense_flags_frame_prediction_wk)){
   )
   print(paste0(i, "/", nrow(presense_flags_frame_prediction_wk)))
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
